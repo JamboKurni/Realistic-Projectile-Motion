@@ -1,2 +1,1 @@
-# Python-Data-Projects
-Some of the data projects I've done in Python
+Produced code for simulating realistic projectile motion in Python
