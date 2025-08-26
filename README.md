@@ -1,2 +1,2 @@
 # Realistic Projectile Motion
-Simulated realistic projectile motion with drag and coriolis forces in Python on various latitudes of a rotating body. Second and fourth order Runge-Kutta methods were employed to compute the trajectory of the projectile. 
+Simulated realistic projectile motion with drag and coriolis forces in Python on various latitudes of a rotating body. Second or fourth order Runge-Kutta methods are employed to compute the trajectory of the projectile which can be chosen and altered in the code. Other parameters such as the mass of projectile, drag coefficient and gravitational field strength can easily be changed in the code. Project report written up in LaTeX. 
