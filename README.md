@@ -1,2 +1,3 @@
 # Realistic Projectile Motion
-Produced code for simulating realistic projectile motion in Python
+Simulated realistic projectile motion with drag and coriolis forces in Python on various latitudes of a rotating body. The project report is attached and written up in LaTeX. 
+
